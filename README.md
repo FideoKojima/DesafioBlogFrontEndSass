@@ -1,2 +1,0 @@
-# DesafioBlogSass
-# DesafioBlogFrontEndSass
